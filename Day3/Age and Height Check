@@ -1,0 +1,10 @@
+#Topic2
+#Q1
+
+var1=float(input("Enter your age: "))
+var2=float(input("Enter your height in cm: "))
+
+if var1>=18 and var2>=165: 
+    print("You are meeting with both condition.")
+else:
+    print("You are not meeting with both condition.")
