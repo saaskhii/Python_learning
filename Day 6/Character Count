@@ -1,0 +1,5 @@
+#q9
+
+x=" Sakshi is Beautifull "
+y=x.count('i')
+print(y)
